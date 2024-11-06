@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954808103384",
+    "project_id": "reelsync-9987a",
+    "storage_bucket": "reelsync-9987a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954808103384:android:6f2a3e87d3980856f842ad",
+        "android_client_info": {
+          "package_name": "com.reelsync.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXpo9RAUrTB24n3QCw5sHb6jm4vcL2mhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
